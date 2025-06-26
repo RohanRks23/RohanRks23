@@ -53,8 +53,9 @@
 
 
 ## 💡 Quotes I Live By
+> “Sometimes there is only 1% chance, and sometimes even that 1% is good enough.”
 
-> “Dedication and learning are the keys to an unstoppable journey.”
+> “Discipline, dedication and learning are the keys to a successful journey of life and career.”
 
 > “Stay curious. Keep learning. Always keep moving forward.”
 
