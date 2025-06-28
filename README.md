@@ -16,13 +16,13 @@
 ---
 
 ## 👨‍💻 What I Do
-- Full-stack app development using Frappe
-- Customise existing Frappe apps to suit business needs
-- Create a Custom Frappe app for business needs
-- Develop dynamic dashboards and visualisations using Frappe Insights, Workspace, Dashboards, Charts, and Number Cards like PowerBI.
-- Design and implement RESTful APIs to enable seamless data integration across platforms.
-- Guide junior developers and lead cross-functional teams
-- Maintain performance, scalability, and uptime of deployed systems
+- Develop full-stack applications using the Frappe Framework
+- Customise existing Frappe apps to align with business processes
+- Build custom Frappe apps from scratch for specific client needs
+- Design dynamic dashboards and visualisations using Frappe Insights, Dashboards, Workspace, Charts, and Number Cards
+- Implement RESTful APIs for platform integrations
+- Mentor junior developers and lead cross-functional technical teams
+- Ensure performance, scalability, and high availability in production systems
 
 ---
 
