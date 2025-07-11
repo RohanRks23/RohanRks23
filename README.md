@@ -1,7 +1,7 @@
 <!-- Banner or Greeting -->
 <h1 align="centre">Hi there, I'm Rohan Kumar Sahukar! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Tech+Lead+at+TechBulls;Frappe+Full-Stack+Developer;Unstoppable+Learner+%F0%9F%9A%80;Team+Player;Formula+1+Enthusiast;Photographer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Tech+Lead+at+TechBulls;Frappe+Full-Stack+Developer;Quick+Learner+%F0%9F%9A%80;Team+Player;Formula+1+Enthusiast;Photographer" alt="Typing SVG" />
 </p>
 
 ---
