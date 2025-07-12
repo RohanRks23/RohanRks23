@@ -20,7 +20,7 @@
 - Customise existing Frappe apps to align with business processes
 - Build custom Frappe apps from scratch for specific client needs
 - Design dynamic dashboards and visualisations using Frappe Insights, Dashboards, Workspace, Charts, and Number Cards
-- Implement RESTful APIs for platform integrations
+- Implement REST APIs for platform integrations
 - Mentor junior developers and lead cross-functional technical teams
 - Ensure performance, scalability, and high availability in production systems
 
