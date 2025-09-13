@@ -34,16 +34,6 @@
 
 ---
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohanRks23&show_icons=true&theme=radical" alt="Rohan's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanRks23&theme=radical&layout=compact" alt="Top Languages" height="170"/>
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-kumar-sahukar-a8485a175)
