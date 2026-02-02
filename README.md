@@ -50,7 +50,7 @@
 > “Stay curious. Keep learning. Always keep moving forward.”
 
 ---
-
+![GitHub Metrics](https://metrics.lecoq.io/RohanRks23)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RohanRks23&label=Profile+Views&color=blue" alt="Profile Views"/>
 </p>
