@@ -50,7 +50,9 @@
 > “Stay curious. Keep learning. Always keep moving forward.”
 
 ---
-![GitHub Metrics](https://metrics.lecoq.io/RohanRks23)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RohanRks23&theme=github-compact&bg_color=0d1117&color=40c463&line=40c463&point=40c463&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RohanRks23&label=Profile+Views&color=blue" alt="Profile Views"/>
 </p>
