@@ -1,14 +1,14 @@
 <!-- Banner or Greeting -->
 <h1 align="centre">Hi there, I'm Rohan Kumar Sahukar! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Tech+Lead+at+TechBulls;Frappe+Full-Stack+Developer;Quick+Learner+%F0%9F%9A%80;Team+Player;Formula+1+Enthusiast;Photographer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Certified+Full-stack+Frappe/ERPNext+Developer;Quick+Learner+%F0%9F%9A%80;Team+Player;Formula+1+Enthusiast;Photographer" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🛠️ **Technical Lead @ TechBulls** | Full-Stack Frappe Developer
+- 🛠️ **Certified** Full-Stack Developer with Frappe Framework
 - 🌱 **Tech Stack:** Frappe Framework, Python, MySQL, JavaScript, Jinja, REST API, HTML, CSS, Frappe Dashboards, Frappe Insights, Instance Deployments
 - 👨‍💻 **Dedicated Learner & Team Player:** Willing to learn, adapt, and apply my knowledge in impactful projects that add value to the world.
 - 🤝 **Open to Collaboration:** Always keen to connect and build cool things together!
@@ -50,8 +50,6 @@
 > “Stay curious. Keep learning. Always keep moving forward.”
 
 ---
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RohanRks23&theme=github-compact&bg_color=0d1117&color=40c463&line=40c463&point=40c463&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RohanRks23&label=Profile+Views&color=blue" alt="Profile Views"/>
